@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UV7aKBZ7d4pc/XVzPgpaqxfpFcdx53w9fveXuSU5vfgTB9YgKDERZf2RHDhjCKtGeBXF7UTLt/cFYMzcVTFXNg==",
+  "success": true,
+  "projectFilePath": "C:\\SyncMega\\Simple_Paint\\SimplePaint\\SimplePaint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
